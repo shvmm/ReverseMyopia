@@ -6,6 +6,7 @@ Diagrams are created using draw.io
 
 Math is created using mathcha.io/editor
 
-Chart is created in GIMP
+Chart is created in GIMP, Graphs is using Desmos
+
 
 Documents in LibreOffice
