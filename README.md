@@ -1,14 +1,15 @@
 # Myopia
-A place for all my research illustrations and Diagrams
+A place for all my research about Myopia.
+The entire soureces including illustrations and Diagrams will be released after publication of the research paper.
+
+The Draft Revision of the Paper 0.5 published on 23:50:59, 3 March 2023 serves as a early timestamp release of the paper.
+This serves as a snapshot of the research paper in time.
 
 
-Diagrams are created using draw.io
 
-Math is created using mathcha.io/editor
-
-Chart is created in GIMP, Graphs is using Desmos
-
-
+Diagrams created using draw.io
+Math created using mathcha.io/editor
+Graphs using Desmos
 Documents in LibreOffice
 
 ### All files in this repository are licensed under Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
