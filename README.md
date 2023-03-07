@@ -1,6 +1,6 @@
 # Myopia
-A place for all my research about Myopia.
-The entire soureces including illustrations and Diagrams will be released after publication of the research paper.
+A place for all my research about Reversible nature of Myopia.
+The entire sources including illustrations and Diagrams will be released after publication of the research paper.
 
 The Draft Revision of the Paper 0.5 published on 23:50:59, 3 March 2023 serves as a early timestamp release of the paper.
 This serves as a snapshot of the research paper in time.
