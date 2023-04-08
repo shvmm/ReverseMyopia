@@ -1,21 +1,20 @@
 # Myopia
-A place for all my research about Reversible nature of Myopia.
-The entire sources including illustrations and Diagrams will be released after publication of the research paper.
+A place for all my research resources about Reversible nature of Myopia.
+The entire sources including illustrations and Diagrams will be gradually released after publication.
 
 The Draft Revision of the Paper 0.5 published on 23:50:59, 3 March 2023 serves as a early timestamp release of the paper.
-This serves as a snapshot of the research paper in time.
+This serves as a release snapshot of the research paper in time.
 
 
-
-Diagrams created using draw.io
+Diagrams created using https://app.diagrams.net/
 
 Math created using mathcha.io/editor
 
-Graphs using Desmos
+Graphs using Desmos https://www.desmos.com/calculator
 
-Documents in LibreOffice
+Documents in LibreOffice https://www.libreoffice.org/download/download-libreoffice/
 
-Math Worksheets in uMath+ for android https://github.com/mkulesh/microMathematics
+Math Worksheets in µMath+ for android https://github.com/mkulesh/microMathematics
 
 ### All files in this repository are licensed under Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 You are free to:
