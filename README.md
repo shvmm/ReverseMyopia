@@ -1,10 +1,8 @@
 # Myopia
-A place for all my research resources about Reversible nature of Myopia.
+A place for all my research work and resources on reducing phsiologic Myopia.
 The entire sources including illustrations and Diagrams will be gradually released after publication.
 
-The Draft Revision of the Paper 0.5 published on 23:50:59, 3 March 2023 serves as a early timestamp release of the paper.
-This serves as a release snapshot of the research paper in time.
-
+The Draft Revision of the Paper 0.5 published on 23:50:59, 3 March 2023 serves as a early timestamp release (release snapshot in time).
 
 Diagrams created using https://app.diagrams.net/
 
@@ -15,6 +13,8 @@ Graphs using Desmos https://www.desmos.com/calculator
 Documents in LibreOffice https://www.libreoffice.org/download/download-libreoffice/
 
 Math Worksheets in µMath+ for android https://github.com/mkulesh/microMathematics
+
+SketchUp web for CYL illustration
 
 ### All files in this repository are licensed under Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 You are free to:
