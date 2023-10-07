@@ -1,8 +1,8 @@
-# Myopia
-A place for all my research work and resources on reducing phsiologic Myopia.
-The entire sources including illustrations and Diagrams will be gradually released after publication.
+# Physiologic Myopia
+A place for all my research breakthrough and resources on reducing phsiologic Myopia.
+The entire sources including illustrations and Diagrams will be gradually released after final peer-review/publication.
 
-The Draft Revision of the Paper 0.5 published on 23:50:59, 3 March 2023 serves as a early timestamp release (release snapshot in time).
+The Draft Revision of the Paper 0.5 released on 23:50:59, 3 March 2023 serves as the timestamp (release snapshot in time).
 
 Diagrams created using https://app.diagrams.net/
 
@@ -10,7 +10,7 @@ Math created using mathcha.io/editor
 
 Graphs using Desmos https://www.desmos.com/calculator
 
-Documents in LibreOffice https://www.libreoffice.org/download/download-libreoffice/
+Manuscript using LibreOffice https://www.libreoffice.org/download/download-libreoffice/
 
 Math Worksheets in µMath+ for android https://github.com/mkulesh/microMathematics
 
